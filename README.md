@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RasheedHuma
-- 👀 I’m a PhD student in communication and am interested in computational communication research.
-- 🌱 I’m currently learning different ways to do automated text analysis that can help answer my research questions.
+- 👀 I’m a PhD student interested in computational social science/communication research.
+- 🌱 I use Structural Topic Modeling, Word Embeddings, and Sentiment Analysis to understand media effects.
 - 💞️ I’m looking to collaborate on research projects with others!
 - 📫 You can reach me at huma@udel.edu
 
