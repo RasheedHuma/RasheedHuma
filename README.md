@@ -1,3 +1,3 @@
--  I’m @RasheedHuma, a PhD candidate at University of Delaware.
+-  I’m @RasheedHuma, PhD candidate at University of Delaware.
 -  I use Structural Topic Modeling, Word Embeddings, and Sentiment Analysis to understand media effects.
 -  You can reach me at huma@udel.edu
