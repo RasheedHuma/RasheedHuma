@@ -1,3 +1,3 @@
--  I’m @RasheedHuma, PhD candidate at University of Delaware.
+-  @RasheedHuma, PhD candidate, Communication, University of Delaware
 -  I use computational methods to study media effects.
 -  You can reach me at huma@udel.edu
