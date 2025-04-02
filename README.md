@@ -1,3 +1,1 @@
--  @RasheedHuma, PhD candidate, Communication, University of Delaware
--  I use computational methods to study media effects.
--  You can reach me at huma@udel.edu
+-  @RasheedHuma, Postdoctoral Research Fellow, University of Pennsylvania
